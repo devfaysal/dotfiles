@@ -2,6 +2,9 @@
 alias t="vendor/bin/phpunit --filter"
 alias phpunit="vendor/bin/phpunit"
 
+#PHPStan
+alias phpstan="vendor/bin/phpstan analyse"
+
 #Laravel
 alias vapor="vendor/bin/vapor"
 
