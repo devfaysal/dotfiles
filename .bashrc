@@ -19,3 +19,6 @@ alias gpm="git push origin master"
 
 #Expose
 alias expose="~/.config/composer/vendor/beyondcode/expose/builds/expose"
+
+#php7.4 composer
+alias php7.4composer="/usr/bin/php7.4 /usr/local/bin/composer"
