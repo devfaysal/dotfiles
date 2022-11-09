@@ -22,3 +22,7 @@ alias expose="~/.config/composer/vendor/beyondcode/expose/builds/expose"
 
 #php7.4 composer
 alias php7.4composer="/usr/bin/php7.4 /usr/local/bin/composer"
+
+
+alias showsecond="gsettings set org.gnome.desktop.interface clock-show-seconds true"
+alias hidesecond="gsettings set org.gnome.desktop.interface clock-show-seconds false"
